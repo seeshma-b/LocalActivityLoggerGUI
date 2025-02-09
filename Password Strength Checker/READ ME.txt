@@ -1,0 +1,20 @@
+*READ ME*
+
+To run the checker, open the terminal/command prompt. Change directory to where the checker is saved. Now run the script in your terminal/command prompt.
+
+
+//Sources used:
+
+https://www.geeksforgeeks.org/python-program-check-validity-password/
+https://www.geeksforgeeks.org/password-validation-in-python/
+https://www.w3resource.com/python-exercises/python-conditional-exercise-15.php
+https://stackoverflow.com/questions/41117733/validation-of-a-password-python
+
+https://www.geeksforgeeks.org/create-first-gui-application-using-python-tkinter/
+https://www.geeksforgeeks.org/python-gui-tkinter/#
+
+
+
+
+Project first created on June 26th, 2024.
+Seeshma Babu
